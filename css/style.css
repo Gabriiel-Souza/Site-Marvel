@@ -1,3 +1,12 @@
+body {
+    background-color: #110f66;
+    color: #FFFFFF;
+}
+
+a {
+    color: #ffffff9c;
+    text-decoration: none;
+}
 #container {
     margin: 20px;
     border: red;
@@ -28,10 +37,11 @@ table {
 }
 
 td, th {
+    background-color: #ffffff83;
     text-align: left;
 }
 
 tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #888888;
 }
 
